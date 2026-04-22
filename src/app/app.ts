@@ -15,7 +15,7 @@ export class App {
   apiURL: string;
 
   constructor(private http: HttpClient) {
-    this.apiURL = 'https://backend-todoapp-5nrh.onrender.com';
+    this.apiURL = 'https://victoservo-200551.onrender.com';
     this.READ_tarefas();
   }
 
